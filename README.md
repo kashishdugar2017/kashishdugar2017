@@ -9,7 +9,7 @@ I am a 9-year-old software developer and competitive swimmer. I build real-world
 * **Alien Invasion:** A customized space invaders game built using Pygame.
 
 ## My Developer Toolkit
-* **Languages:** Python, HTML, CSS, Rust
+* **Languages:** Python, HTML, CSS, Rust(Later)
 * **Frameworks & UI:** Django, Tkinter, Pygame
 * **Concepts:** Object-Oriented Programming (OOP), Clean Code, Open Source Management
 

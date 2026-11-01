@@ -2,7 +2,7 @@
 
 I'm a 9-year-old programmer and competitive swimmer from Kochi, India. I'm on my way to systems programming.
 
-**How I learn**: I turn every idea into something from my own life, solve it on paper first, and then turn the paper into code. I write about it every day, including my mistakes: My Coding Journey
+**How I learn**: I turn every idea into something from my own life, solve it on paper first, and then turn the paper into code. I write about it every day, including my mistakes: *https://kashishdugar2017.github.io*
 
 # Data structures and algorithms I built from scratch
 **Dijkstra**: finds the cheapest route on a map

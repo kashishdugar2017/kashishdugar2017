@@ -1,6 +1,7 @@
 # Hi, I'm Kashish! @kashishdugar2017
 
 I am a 9-year-old software developer and competitive swimmer. I build real-world desktop apps, games, and web backends using Python, and I am currently diving into systems programming.
+**link to my blog**:*https://kashishdugar2017.github.io*
 
 ## My Shipped Projects 
 * **Race Day Manager:** A Tkinter desktop app to track my swim meets and log energy levels.
@@ -9,6 +10,13 @@ I am a 9-year-old software developer and competitive swimmer. I build real-world
 * **Alien Invasion:** A customized space invaders game built using Pygame.
 * **...And Many more**
 
+## Algoritms
+* **Hash-Table**
+* **Bianary-Search-Tree**
+* **Breadth-First-Search**
+* **Dijkstrsa**
+* **Classroom-Scedular**
+* 
 ## My Developer Toolkit
 * **Languages:** Python, HTML, CSS, Rust(Later)
 * **Frameworks & UI:** Django, Tkinter, Pygame

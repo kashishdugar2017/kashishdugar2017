@@ -1,28 +1,29 @@
-# Hi, I'm Kashish! @kashishdugar2017
+## Hi, I'm Kashish! 
 
-I am a 9-year-old software developer and competitive swimmer. I build real-world desktop apps, games, and web backends using Python, and I am currently diving into systems programming.
-**link to my blog**:*https://kashishdugar2017.github.io*
+I'm a 9-year-old programmer and competitive swimmer from Kochi, India. I'm on my way to systems programming.
 
-## My Shipped Projects 
-* **Race Day Manager:** A Tkinter desktop app to track my swim meets and log energy levels.
-* **Pack-it-up:** A visual packing simulator built with real photos.
-* **Curio Log:** A Django web application for organizing and tracking new things I learn.
-* **Alien Invasion:** A customized space invaders game built using Pygame.
-* **...And Many more**
+**How I learn**: I turn every idea into something from my own life, solve it on paper first, and then turn the paper into code. I write about it every day, including my mistakes: My Coding Journey
 
-## Algoritms
-* **Hash-Table**
-* **Bianary-Search-Tree**
-* **Breadth-First-Search**
-* **Dijkstrsa**
-* **Classroom-Scedular**
-* 
-## My Developer Toolkit
-* **Languages:** Python, HTML, CSS, Rust(Later)
-* **Frameworks & UI:** Django, Tkinter, Pygame
-* **Concepts:** Object-Oriented Programming (OOP), Clean Code, Open Source Management
+# Data structures and algorithms I built from scratch
+**Dijkstra**: finds the cheapest route on a map
 
-## Current Coding Goals
-* **Learn Rust:** Moving past basic logic to master memory safety, Cargo compilation, and fast performance.
-* Adding new levels and scoring systems to my existing Python game engines.
-* Keeping my GitHub repositories perfectly organized with topics and documentation.
+**Classroom-Scheduler**: a greedy algorithm that plans my own day
+
+**Breadth-First-Search**: finds the closest smoothie bowl seller among my friends
+
+**Binary-Search-Tree**: with inorder, preorder and postorder
+
+**Hash-Table**: with linked lists for collisions
+
+
+# Apps and games
+**Race Day Manager**: a Tkinter app for my swim meets
+
+**Pack-It-Up**: a packing simulator with real photos
+
+**Curio Log**: a Django app for things I learn
+
+**Alien Invasion**: a space invaders game with my own additions
+
+## Tools
+Python, Git, HTML and CSS, Django, Tkinter, Pygame. Rust starts on 1 January 2027!
